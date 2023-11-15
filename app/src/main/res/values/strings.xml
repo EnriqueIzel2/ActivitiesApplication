@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ActivitiesApplication</string>
+    <string name="web_page_text">Olá %s vamos abrir uma web page?</string>
+    <string name="btn_webPage">Open Web Page</string>
+    <string name="open_map">Open Map</string>
+    <string name="share_text">Share Text</string>
 </resources>
